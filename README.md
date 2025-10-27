@@ -1,2 +1,3 @@
 # polaris-project
-This is a   description
+
+NEW POLARIS PROJECT
